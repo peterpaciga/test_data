@@ -87,5 +87,31 @@
           "price": 159.99
         }
       ]
+    },
+    {
+      "id": 5,
+      "title": "Novy kurnik",
+      "description": "High-end coop with insulated walls and predator-proof design.",
+      "size": "2500 x 200 x 180 cm",
+      "area": "50 m²",
+      "price": 7999.99,
+      "imglink": "https://example.com/images/coop3.jpg",
+      "options": [
+        {
+          "title": "Insulation Upgrade",
+          "description": "Enhanced insulation for colder climates.",
+          "price": 89.99
+        },
+        {
+          "title": "Smart Monitoring System",
+          "description": "Monitor temperature and humidity via mobile app.",
+          "price": 129.99
+        },
+        {
+          "title": "Smart Monitoring System Pro",
+          "description": "Monitor temperature and humidity via mobile app.",
+          "price": 159.99
+        }
+      ]
     }
   ]
