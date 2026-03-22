@@ -1,6 +1,67 @@
 {
-  "users": [
-    { "id": 1, "name": "Alice" },
-    { "id": 2, "name": "Bob" }
+  [
+    {
+      "id": 1,
+      "title": "Classic Wooden Chicken Coop",
+      "description": "Durable wooden coop suitable for small backyard farms. Includes nesting boxes and ventilation.",
+      "size": "150 x 100 x 120 cm",
+      "area": "1.5 m²",
+      "price": 249.99,
+      "imglink": "https://example.com/images/coop1.jpg",
+      "options": [
+        {
+          "title": "Automatic Door",
+          "description": "Solar-powered automatic door for easy opening and closing.",
+          "price": 49.99
+        },
+        {
+          "title": "Extra Nesting Box",
+          "description": "Additional nesting space for more hens.",
+          "price": 29.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Large Outdoor Chicken Coop",
+      "description": "Spacious coop with run area, perfect for medium-sized flocks.",
+      "size": "300 x 150 x 150 cm",
+      "area": "4.5 m²",
+      "price": 499.99,
+      "imglink": "https://example.com/images/coop2.jpg",
+      "options": [
+        {
+          "title": "Weather Protection Cover",
+          "description": "Waterproof cover for protection against rain and snow.",
+          "price": 59.99
+        },
+        {
+          "title": "Feeding System",
+          "description": "Automatic feeder to simplify daily care.",
+          "price": 39.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Premium Chicken Coop Deluxe",
+      "description": "High-end coop with insulated walls and predator-proof design.",
+      "size": "250 x 200 x 180 cm",
+      "area": "5 m²",
+      "price": 799.99,
+      "imglink": "https://example.com/images/coop3.jpg",
+      "options": [
+        {
+          "title": "Insulation Upgrade",
+          "description": "Enhanced insulation for colder climates.",
+          "price": 89.99
+        },
+        {
+          "title": "Smart Monitoring System",
+          "description": "Monitor temperature and humidity via mobile app.",
+          "price": 129.99
+        }
+      ]
+    }
   ]
 }
